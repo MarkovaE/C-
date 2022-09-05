@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Домашнее задание/1.0.0": {
+      "Задача 10/1.0.0": {
         "runtime": {
-          "Домашнее задание.dll": {}
+          "Задача 10.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Домашнее задание/1.0.0": {
+    "Задача 10/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

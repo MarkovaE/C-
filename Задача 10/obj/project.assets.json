@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARTA\\Desktop\\Обучение\\Домашнее задание\\Домашнее задание.csproj",
-      "projectName": "Домашнее задание",
-      "projectPath": "C:\\Users\\MARTA\\Desktop\\Обучение\\Домашнее задание\\Домашнее задание.csproj",
+      "projectUniqueName": "C:\\Users\\MARTA\\Desktop\\Обучение\\Домашнее задание\\Задача 10\\Задача 10.csproj",
+      "projectName": "Задача 10",
+      "projectPath": "C:\\Users\\MARTA\\Desktop\\Обучение\\Домашнее задание\\Задача 10\\Задача 10.csproj",
       "packagesPath": "C:\\Users\\MARTA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARTA\\Desktop\\Обучение\\Домашнее задание\\obj\\",
+      "outputPath": "C:\\Users\\MARTA\\Desktop\\Обучение\\Домашнее задание\\Задача 10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MARTA\\AppData\\Roaming\\NuGet\\NuGet.Config"
